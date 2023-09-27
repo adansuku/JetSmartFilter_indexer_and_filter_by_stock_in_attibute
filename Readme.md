@@ -1,0 +1,1 @@
+JetSmartFilter indexer and filter by stock in attibute
